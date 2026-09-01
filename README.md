@@ -13,8 +13,27 @@
 - 🎓 B.Tech Student | Aspiring Developer
 - 💡 Strong interest in **Data Structures, Algorithms, and Python**
 - 🌱 Currently learning: **Full-Stack Web Development, C, Java, Python**
+- 🚀 Built a live recruitment portal for my college's ACM Student Chapter
 - 📍 Based in Hyderabad, India
 - ⚡ Fun fact: I like turning "it doesn't work" into "it works" one bug at a time
+
+<br>
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Adarsh-engu/acm-recruitements">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-engu&repo=acm-recruitements&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Adarsh-engu/Student-Expense-Tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-engu&repo=Student-Expense-Tracker&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+- **[ACM GRIET Recruitments Portal](https://github.com/Adarsh-engu/acm-recruitements)** — Official recruitment platform for the ACM GRIET Student Chapter, built with Next.js + TypeScript, live at [acm-recruitement.vercel.app](https://acm-recruitement.vercel.app)
+- **[Student Expense Tracker](https://github.com/Adarsh-engu/Student-Expense-Tracker)** — Full-stack expense tracking app with a separate frontend and backend
 
 <br>
 
@@ -22,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,git,github,vscode,mysql,react" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,nextjs,nodejs,react,html,css,git,github,vscode,mysql" />
 
 </div>
 
@@ -65,7 +84,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/adarsh-engu-17mar07/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:adarsh7147@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 </div>
